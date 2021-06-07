@@ -1,0 +1,38 @@
+.header{
+    font-size: 13px;
+    background-color: lightcoral;
+    width: 100%;
+    padding: 5px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Stint Ultra Condensed', cursive !important;
+}
+.header span{
+    color: white;
+    font-family: 'Mate SC', serif !important;
+}
+.div{
+    font-size: 25px !important;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+.footer{
+    background-color: #f08080;
+    width: 100%;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0px;
+    font-family: 'Sigmar One', cursive;
+}
+canvas{
+    border: 5px dashed black;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+}
+#square_sides{
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Mate SC', serif;
+}
+
